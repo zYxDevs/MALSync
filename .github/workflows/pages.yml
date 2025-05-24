@@ -3,9 +3,11 @@ on:
   push:
     paths:
       - 'src/pages/**'
+      - 'src/pages-chibi/**'
   pull_request:
     paths:
       - 'src/pages/**'
+      - 'src/pages-chibi/**'
 
 jobs:
   build:
@@ -19,7 +21,7 @@ jobs:
         format: 'json'
     - uses: actions/setup-node@v4
       with:
-        node-version: '20.x'
+        node-version: '22.x'
     - name: Checkout test data
       uses: actions/checkout@v4
       with:
