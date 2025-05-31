@@ -25,10 +25,8 @@ import { MangaPlus } from './MangaPlus/main';
 import { JapScan } from './JapScan/main';
 import { Hulu } from './Hulu/main';
 import { Hidive } from './Hidive/main';
-import { PrimeVideo } from './PrimeVideo/main';
 import { MangaKatana } from './MangaKatana/main';
 import { manga4life } from './manga4life/main';
-import { bato } from './bato/main';
 import { MangaPark } from './MangaPark/main';
 import { AnimeXin } from './AnimeXin/main';
 import { MonosChinos } from './MonosChinos/main';
@@ -65,7 +63,6 @@ import { MangaJar } from './MangaJar/main';
 import { Otakustv } from './Otakustv/main';
 import { Komga } from './Komga/main';
 import { AnimeWho } from './AnimeWho/main';
-import { Toonily } from './Toonily/main';
 import { Fumetsu } from './Fumetsu/main';
 import { FrixySubs } from './FrixySubs/main';
 import { Guya } from './Guya/main';
@@ -93,7 +90,6 @@ import { Animetoast } from './Animetoast/main';
 import { LuminousScans } from './LuminousScans/main';
 import { Animeworld } from './Animeworld/main';
 import { MangaBuddy } from './MangaBuddy/main';
-import { VoidScans } from './VoidScans/main';
 import { ToonAnime } from './ToonAnime/main';
 import { ADKami } from './ADKami/main';
 import { Kaguya } from './Kaguya/main';
@@ -166,10 +162,8 @@ export const pages = {
   JapScan,
   Hulu,
   Hidive,
-  PrimeVideo,
   MangaKatana,
   manga4life,
-  bato,
   MangaPark,
   AnimeXin,
   MonosChinos,
@@ -206,7 +200,6 @@ export const pages = {
   Otakustv,
   Komga,
   AnimeWho,
-  Toonily,
   Fumetsu,
   FrixySubs,
   Guya,
@@ -234,7 +227,6 @@ export const pages = {
   LuminousScans,
   Animeworld,
   MangaBuddy,
-  VoidScans,
   ToonAnime,
   ADKami,
   Kaguya,
