@@ -245,6 +245,7 @@ module.exports = {
       '*://*.mixdrop.sx/e/*',
       '*://*.mixdrop.ms/e/*',
       '*://*.mixdrop.ps/e/*',
+      '*://*.mixdrop.my/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -312,6 +313,10 @@ module.exports = {
   // animedesu
   animedesu: {
     match: ['*://animedesu.pl/player/desu.php?v=*'],
+  },
+  // animevost
+  animevost: {
+    match: ['*://animevost.org/frame5.php?play=*'],
   },
   // animixplay
   animixplay: {
@@ -525,6 +530,8 @@ module.exports = {
       '*://sarahnewspaperbeat.com/e/*',
       '*://diananatureforeign.com/e/*',
       '*://jonathansociallike.com/e/*',
+      '*://mariatheserepublican.com/e/*',
+      '*://jilliandescribecompany.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
@@ -796,5 +803,13 @@ module.exports = {
   // hikari
   boosterx: {
     match: ['*://boosterx.stream/*'],
+  },
+  // animeav1
+  animeav1: {
+    match: ['*://player.zilla-networks.com/*'],
+  },
+  // miruro
+  megaplay: {
+    match: ['*://megaplay.buzz/*'],
   },
 };
