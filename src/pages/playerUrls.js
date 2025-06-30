@@ -245,6 +245,7 @@ module.exports = {
       '*://*.mixdrop.sx/e/*',
       '*://*.mixdrop.ms/e/*',
       '*://*.mixdrop.ps/e/*',
+      '*://*.mixdrop.my/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -525,6 +526,7 @@ module.exports = {
       '*://sarahnewspaperbeat.com/e/*',
       '*://diananatureforeign.com/e/*',
       '*://jonathansociallike.com/e/*',
+      '*://jilliandescribecompany.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
