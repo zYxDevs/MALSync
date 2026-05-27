@@ -153,6 +153,7 @@
     "iframe": [
       "*://playnixes.com/*",
       "*://kodikplayer.com/*",
+      "*://*.miixdrop.net/e/*",
       "*://dianaavoidthey.com/e/*",
       "*://jefferycontrolmodel.com/e/*",
       "*://jessicaclearout.com/e/*",
@@ -167,8 +168,7 @@
       "*://rebeccasciencestreet.com/e/*",
       "*://ericeastweight.com/e/*",
       "*://kathyinformationwhether.com/e/*",
-      "*://megaup.nl/e/*",
-      "*://vidwish.live/*"
+      "*://megaup.nl/e/*"
     ]
   }
 }
