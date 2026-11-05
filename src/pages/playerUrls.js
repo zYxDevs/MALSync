@@ -508,6 +508,7 @@ module.exports = {
       '*://johnfullwonder.com/e/*',
       '*://jamesbornmain.com/e/*',
       '*://jeremyparticipantanything.com/e/*',
+      '*://shannoncoldalready.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
